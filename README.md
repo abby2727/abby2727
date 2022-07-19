@@ -1,7 +1,6 @@
 <h1 align="center">Hi! I'm Abdul Pangandaman</h1>
 <h3 align="center">A determined web developer from Philippines.</h3>
-
-<img align="right" alt="Laravel Coding" with="400" src="https://procoders.tech/wp-content/uploads/2020/09/Beautiful-Design-Templates-for-Laravel.gif">
+<img align="right" alt="Coding" width="400" src="https://procoders.tech/wp-content/uploads/2020/09/Beautiful-Design-Templates-for-Laravel.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
