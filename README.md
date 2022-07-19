@@ -2,9 +2,11 @@
 <h3 align="center">A determined web developer from Philippines.</h3>
 <img align="right" alt="Coding" width="400" src="https://procoders.tech/wp-content/uploads/2020/09/Beautiful-Design-Templates-for-Laravel.gif">
 
-- 🔭 I’m currently working on [Poblacion Online Water Billing System](https://github.com/abby2727/poblacion-water-bill)
+- 🔭 I’m currently working on <br />
+[Poblacion Online Water Billing System](https://github.com/abby2727/poblacion-water-bill)
 
-- 🌱 I’m currently expanding my knowledge on **Laravel Framework**
+- 🌱 I’m currently expanding my knowledge on <br />
+**Laravel Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
