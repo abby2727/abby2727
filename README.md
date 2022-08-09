@@ -1,5 +1,7 @@
 <h1 align="center">Hi! I'm Abdul Pangandaman</h1>
 <h3 align="center">A highly motivated and determined web developer from Philippines.</h3>
+<h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abby2727.github.io/my-portfolio/' target="blank">Resume</a></h4> <br>
+
 <img align="right" alt="Coding" width="380" src="https://unitedwebsoft.in/public/assets/images/freelance-web-designer-gif.gif">
 
 - 🔭 I’m currently working on <br />
