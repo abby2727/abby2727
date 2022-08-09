@@ -2,7 +2,7 @@
 <h3 align="center">A highly motivated and determined web developer from Philippines.</h3>
 <h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abby2727.github.io/my-portfolio/' target="blank">Resume</a></h4> <br>
 
-<img align="right" alt="Coding" width="380" src="https://unitedwebsoft.in/public/assets/images/freelance-web-designer-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
 - 🔭 I’m currently working on <br />
 [Poblacion Online Water Billing System](https://github.com/abby2727/poblacion-water-bill)
