@@ -8,13 +8,13 @@
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
+    <a href="https://twitter.com/abby_2727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abby_2727" height="30" width="40" />
+    </a>
     <a href="https://linkedin.com/in/abdul22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulpangandaman22" height="30" width="40" />
     </a>
     <a href="https://fb.com/abdulfahadgo.pangandaman.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulfahadgo.pangandaman.18" height="30" width="40" />
     </a>
     <a href="https://instagram.com/abbyyyyys_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbyyyyys_" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/abby_2727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abby_2727" height="30" width="40" />
     </a>
 </p>
 
