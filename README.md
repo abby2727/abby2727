@@ -1,10 +1,12 @@
 <h1 align="center">Hi! I'm Abdul Pangandaman</h1>
 <h3 align="center">A highly motivated and determined web developer from Philippines.</h3>
-<h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abdulpangandaman.me/doc/resume' target="blank">Resume</a></h4> <br>
+<h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abdulpangandaman.me/doc/resume' target="blank">Resume</a></h4> 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abby2727&label=Profile%20views&color=0e75b6&style=flat" alt="abby2727" /> </p> <br>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect!</h3>
 <p align="left">
     <a href="https://linkedin.com/in/abdul22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulpangandaman22" height="30" width="40" />
     </a>
