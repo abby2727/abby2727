@@ -2,7 +2,7 @@
 <h3 align="center">A recent computer engineering graduate and a full stack web developer based in the Philippines.</h3>
 <h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://abdulpangandaman.me/doc/resume' target="blank">Resume</a></h4> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abby2727&label=Profile%20views&color=0e75b6&style=flat" alt="abby2727" /> </p> <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abby2727&label=Profile%20views&color=0e75b6&style=flat" alt="abby2727" /> </p>
 
 <h3 align="center">Let's connect!</h3>
 <p align="center">
