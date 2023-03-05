@@ -55,5 +55,5 @@
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=abby2727&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=15124f&sideLabels=C3D1D9&dates=58A6FF" />
 </div>
 <div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&langs_count=6&exclude_repo=abby-coding,laravel_research_update,hospital-care-info,java-trivia-quizzes,python-sams&theme=onedark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=15124f" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&langs_count=6&theme=onedark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=15124f" />
 </div>
