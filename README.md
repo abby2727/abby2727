@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<h3 align="center">My Techstack:</h3>
+<h3 align="center">Technologies:</h3>
 <p align="center"> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
@@ -54,6 +54,4 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=abby2727&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=15124f" />
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=abby2727&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=15124f&sideLabels=C3D1D9&dates=58A6FF" />
 </div>
-<div align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&langs_count=6&theme=onedark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=15124f" />
-</div>
+
