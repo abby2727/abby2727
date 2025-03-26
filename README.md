@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://abdulpangandaman.vercel.app/">Abdul Pangandaman</a>!</h1>
-<h3 align="center">A computer engineer, electronics hobbyist, and a software developer.</h3>
+<h3 align="center">An educator, electronics hobbyist, and a software engineer.</h3>
 <h4 align="center"><a href='https://abby2727.github.io/my-portfolio/' target="blank">Portfolio</a> | <a href='https://res.cloudinary.com/dxeattgd6/image/upload/v1685858780/my-portfolio/AbdulPangandaman_haxuoq.pdf' target="blank">Resume</a></h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abby2727&label=Profile%20views&color=0e75b6&style=flat" alt="abby2727" /> </p>
