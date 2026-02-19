@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://abdulpangandaman.vercel.app/">Portfolio</a> •
   <a href="mailto:abdulpangandaman22@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/yourlinkedin/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abdul22/">LinkedIn</a>
 </p>
 
 ---
