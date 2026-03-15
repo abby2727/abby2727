@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I teach and build software.
-- 💻 Full-stack Web & Mobile Developer.
-- 🎮 Currently exploring immersive development & VR.
-- 🔧 I enjoy combining software with electronics projects.
-- 🚀 Always learning and building.
+- 🎓 Graduate of **Computer Engineering**
+- 👨‍🏫 Educator
+- 💻 Full-stack Web & Mobile Developer
+- 🤖 Exploring AI systems, LLMs, and Agentic workflows
+- 🎮 Currently exploring immersive development & VR
 
 ---
 
@@ -31,28 +31,37 @@
 **Frameworks & Tools**
 
 - React / React Native
-- Vue 3 / Laravel
+- Vue 3
+- Laravel
 - Node.js
 - Unity
 - Tailwind CSS
 - Git & GitHub
 
----
+**AI & LLM Development**
 
-### 📌 Current Focus
-
-- High-performance development
-- Game mechanics & 3D math
-- Clean architecture & scalable systems
-
----
-
-### 📫 Connect With Me
-
-Feel free to reach out for collaboration, projects, or tech discussions!
+- LangChain
+- LangGraph
+- LLM Integration
+- Retrieval-Augmented Generation (RAG)
+- AI Agent Development
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  "Build. Teach. Improve. Repeat."
+  <img src="https://github-readme-stats.vercel.app/api?username=abby2727&show_icons=true&theme=tokyonight" />
 </p>
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out for collaboration, projects, or tech discussions!
