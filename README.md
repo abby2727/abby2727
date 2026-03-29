@@ -13,9 +13,9 @@
 
 - 🎓 Graduate of **Computer Engineering**
 - 👨‍🏫 Educator
-- 💻 Full-stack Web & Mobile Developer
+- 💻 Web & Mobile Developer
 - 🤖 Exploring AI systems, LLMs, and Agentic workflows
-- 🎮 Currently exploring immersive development & VR
+- 🎮 Learning 3D & VR development
 
 ---
 
@@ -26,7 +26,6 @@
 - JavaScript / TypeScript
 - PHP
 - C#
-- SQL
 
 **Frameworks & Tools**
 
@@ -34,7 +33,7 @@
 - Vue 3
 - Laravel
 - Node.js
-- Unity
+- Unity (3D & VR development)
 - Tailwind CSS
 - Git & GitHub
 
@@ -45,20 +44,6 @@
 - LLM Integration
 - Retrieval-Augmented Generation (RAG)
 - AI Agent Development
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abby2727&show_icons=true&theme=tokyonight" />
-</p>
-
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
